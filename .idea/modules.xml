@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\2017Fall\android\potato-list\PotatoList.iml" filepath="C:\2017Fall\android\potato-list\PotatoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\t00062765\Desktop\potato-list\app\app.iml" filepath="C:\Users\t00062765\Desktop\potato-list\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/potato-list.iml" filepath="$PROJECT_DIR$/potato-list.iml" />
+    </modules>
+  </component>
+</project>
